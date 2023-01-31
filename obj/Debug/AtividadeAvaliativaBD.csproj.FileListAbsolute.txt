@@ -1,0 +1,408 @@
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\AtividadeAvaliativaBD.exe.config
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\AtividadeAvaliativaBD.exe
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\AtividadeAvaliativaBD.pdb
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\BouncyCastle.Crypto.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\EntityFramework.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\EntityFramework.SqlServer.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\Google.Protobuf.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Compression.LZ4.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Hash.xxHash.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\MySql.Data.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\MySql.Data.EntityFramework.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Buffers.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Memory.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Numerics.Vectors.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\ZstdNet.dll
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\BouncyCastle.Crypto.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\EntityFramework.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\EntityFramework.SqlServer.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\Google.Protobuf.pdb
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\Google.Protobuf.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Compression.LZ4.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Hash.xxHash.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\MySql.Data.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\MySql.Data.EntityFramework.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Buffers.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Memory.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Numerics.Vectors.xml
+G:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.JanPrincipal.resources
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.exe
+G:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\AtividadeAvaliativaBD.exe.config
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\AtividadeAvaliativaBD.exe
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\EntityFramework.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\Google.Protobuf.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\MySql.Data.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\MySql.Data.EntityFramework.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Buffers.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Memory.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Numerics.Vectors.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\ZstdNet.dll
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\BouncyCastle.Crypto.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\EntityFramework.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\Google.Protobuf.pdb
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\Google.Protobuf.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Compression.LZ4.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\K4os.Hash.xxHash.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\MySql.Data.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\MySql.Data.EntityFramework.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Buffers.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Memory.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Numerics.Vectors.xml
+D:\ProgVis\AtividadeAvaliativaBD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.exe
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\AtividadeAvaliativaBD\obj\Debug\AtividadeAvaliativaBD.JanLogin.resources
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\AtividadeAvaliativaBD.exe.config
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\AtividadeAvaliativaBD.exe
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\EntityFramework.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\Google.Protobuf.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\MySql.Data.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\MySql.Data.EntityFramework.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Buffers.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Memory.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Numerics.Vectors.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\ZstdNet.dll
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\BouncyCastle.Crypto.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\EntityFramework.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\Google.Protobuf.pdb
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\Google.Protobuf.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Compression.LZ4.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Hash.xxHash.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\MySql.Data.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\MySql.Data.EntityFramework.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Buffers.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Memory.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Numerics.Vectors.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.JanLogin.resources
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.JanPrincipal.resources
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.exe
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.JanCadastrar.resources
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\AtividadeAvaliativaBD.exe.config
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\AtividadeAvaliativaBD.exe
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\AtividadeAvaliativaBD.pdb
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\BouncyCastle.Crypto.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\EntityFramework.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\EntityFramework.SqlServer.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\Google.Protobuf.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Compression.LZ4.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Hash.xxHash.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\MySql.Data.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\MySql.Data.EntityFramework.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Buffers.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Memory.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Numerics.Vectors.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\ZstdNet.dll
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\BouncyCastle.Crypto.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\EntityFramework.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\EntityFramework.SqlServer.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\Google.Protobuf.pdb
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\Google.Protobuf.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Compression.LZ4.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\K4os.Hash.xxHash.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\MySql.Data.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\MySql.Data.EntityFramework.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Buffers.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Memory.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Numerics.Vectors.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.JanCadastrar.resources
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.JanLogin.resources
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.JanPrincipal.resources
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.exe
+G:\ProgVis\AtividadeAvaliativaBD - Copia\obj\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\AtividadeAvaliativaBD.exe.config
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\AtividadeAvaliativaBD.exe
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\EntityFramework.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\Google.Protobuf.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\MySql.Data.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\MySql.Data.EntityFramework.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\System.Buffers.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\System.Memory.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\System.Numerics.Vectors.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\ZstdNet.dll
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\BouncyCastle.Crypto.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\EntityFramework.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\Google.Protobuf.pdb
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\Google.Protobuf.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\K4os.Compression.LZ4.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\K4os.Hash.xxHash.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\MySql.Data.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\MySql.Data.EntityFramework.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\System.Buffers.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\System.Memory.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\System.Numerics.Vectors.xml
+D:\ProgVis\GestaoDesenvolvedores\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.JanCadastrar.resources
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.JanLogin.resources
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.JanPrincipal.resources
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.JanProjeto.resources
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.exe
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\GestaoDesenvolvedores\obj\Debug\AtividadeAvaliativaBD.JanSobre.resources
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.exe.config
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.exe.manifest
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.application
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.exe
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\EntityFramework.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\Google.Protobuf.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\MySql.Data.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\MySql.Data.EntityFramework.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Buffers.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Memory.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Numerics.Vectors.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\ZstdNet.dll
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\BouncyCastle.Crypto.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\EntityFramework.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\Google.Protobuf.pdb
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\Google.Protobuf.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Compression.LZ4.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Hash.xxHash.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\MySql.Data.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\MySql.Data.EntityFramework.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Buffers.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Memory.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Numerics.Vectors.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanCadastrar.resources
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanLogin.resources
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.Entrada.resources
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanProjeto.resources
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanSobre.resources
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.exe.manifest
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.application
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.exe
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.pdb
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.exe.config
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.exe.manifest
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.application
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.exe
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\AtividadeAvaliativaBD.pdb
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\BouncyCastle.Crypto.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\EntityFramework.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\EntityFramework.SqlServer.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\Google.Protobuf.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Compression.LZ4.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Hash.xxHash.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\MySql.Data.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\MySql.Data.EntityFramework.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Buffers.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Memory.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Numerics.Vectors.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\ZstdNet.dll
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\BouncyCastle.Crypto.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\EntityFramework.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\EntityFramework.SqlServer.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\Google.Protobuf.pdb
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\Google.Protobuf.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Compression.LZ4.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\K4os.Hash.xxHash.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\MySql.Data.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\MySql.Data.EntityFramework.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Buffers.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Memory.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Numerics.Vectors.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanAlocacao.resources
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanCadastrar.resources
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanLogin.resources
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.Entrada.resources
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanProjeto.resources
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanSobre.resources
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanTarefas.resources
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.exe.manifest
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.application
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.exe
+G:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.pdb
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanAlocacao.resources
+D:\ProgVis\GestaoDesenvolvedoresSM\obj\Debug\AtividadeAvaliativaBD.JanTarefas.resources
+G:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.exe.config
+G:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.exe.manifest
+G:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.application
+G:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.exe
+G:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.pdb
+G:\gestaodesenvolvedor-main\bin\Debug\BouncyCastle.Crypto.dll
+G:\gestaodesenvolvedor-main\bin\Debug\EntityFramework.dll
+G:\gestaodesenvolvedor-main\bin\Debug\EntityFramework.SqlServer.dll
+G:\gestaodesenvolvedor-main\bin\Debug\Google.Protobuf.dll
+G:\gestaodesenvolvedor-main\bin\Debug\K4os.Compression.LZ4.dll
+G:\gestaodesenvolvedor-main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\gestaodesenvolvedor-main\bin\Debug\K4os.Hash.xxHash.dll
+G:\gestaodesenvolvedor-main\bin\Debug\MySql.Data.dll
+G:\gestaodesenvolvedor-main\bin\Debug\MySql.Data.EntityFramework.dll
+G:\gestaodesenvolvedor-main\bin\Debug\System.Buffers.dll
+G:\gestaodesenvolvedor-main\bin\Debug\System.Memory.dll
+G:\gestaodesenvolvedor-main\bin\Debug\System.Numerics.Vectors.dll
+G:\gestaodesenvolvedor-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\gestaodesenvolvedor-main\bin\Debug\ZstdNet.dll
+G:\gestaodesenvolvedor-main\bin\Debug\BouncyCastle.Crypto.xml
+G:\gestaodesenvolvedor-main\bin\Debug\EntityFramework.xml
+G:\gestaodesenvolvedor-main\bin\Debug\EntityFramework.SqlServer.xml
+G:\gestaodesenvolvedor-main\bin\Debug\Google.Protobuf.pdb
+G:\gestaodesenvolvedor-main\bin\Debug\Google.Protobuf.xml
+G:\gestaodesenvolvedor-main\bin\Debug\K4os.Compression.LZ4.xml
+G:\gestaodesenvolvedor-main\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\gestaodesenvolvedor-main\bin\Debug\K4os.Hash.xxHash.xml
+G:\gestaodesenvolvedor-main\bin\Debug\MySql.Data.xml
+G:\gestaodesenvolvedor-main\bin\Debug\MySql.Data.EntityFramework.xml
+G:\gestaodesenvolvedor-main\bin\Debug\System.Buffers.xml
+G:\gestaodesenvolvedor-main\bin\Debug\System.Memory.xml
+G:\gestaodesenvolvedor-main\bin\Debug\System.Numerics.Vectors.xml
+G:\gestaodesenvolvedor-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanAlocacao.resources
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanCadastrar.resources
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanLogin.resources
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.Entrada.resources
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanProjeto.resources
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanSobre.resources
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanTarefas.resources
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.exe.manifest
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.application
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.exe
+G:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.pdb
+D:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.exe.config
+D:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.exe.manifest
+D:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.application
+D:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.exe
+D:\gestaodesenvolvedor-main\bin\Debug\AtividadeAvaliativaBD.pdb
+D:\gestaodesenvolvedor-main\bin\Debug\BouncyCastle.Crypto.dll
+D:\gestaodesenvolvedor-main\bin\Debug\EntityFramework.dll
+D:\gestaodesenvolvedor-main\bin\Debug\EntityFramework.SqlServer.dll
+D:\gestaodesenvolvedor-main\bin\Debug\Google.Protobuf.dll
+D:\gestaodesenvolvedor-main\bin\Debug\K4os.Compression.LZ4.dll
+D:\gestaodesenvolvedor-main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\gestaodesenvolvedor-main\bin\Debug\K4os.Hash.xxHash.dll
+D:\gestaodesenvolvedor-main\bin\Debug\MySql.Data.dll
+D:\gestaodesenvolvedor-main\bin\Debug\MySql.Data.EntityFramework.dll
+D:\gestaodesenvolvedor-main\bin\Debug\System.Buffers.dll
+D:\gestaodesenvolvedor-main\bin\Debug\System.Memory.dll
+D:\gestaodesenvolvedor-main\bin\Debug\System.Numerics.Vectors.dll
+D:\gestaodesenvolvedor-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\gestaodesenvolvedor-main\bin\Debug\ZstdNet.dll
+D:\gestaodesenvolvedor-main\bin\Debug\BouncyCastle.Crypto.xml
+D:\gestaodesenvolvedor-main\bin\Debug\EntityFramework.xml
+D:\gestaodesenvolvedor-main\bin\Debug\EntityFramework.SqlServer.xml
+D:\gestaodesenvolvedor-main\bin\Debug\Google.Protobuf.pdb
+D:\gestaodesenvolvedor-main\bin\Debug\Google.Protobuf.xml
+D:\gestaodesenvolvedor-main\bin\Debug\K4os.Compression.LZ4.xml
+D:\gestaodesenvolvedor-main\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\gestaodesenvolvedor-main\bin\Debug\K4os.Hash.xxHash.xml
+D:\gestaodesenvolvedor-main\bin\Debug\MySql.Data.xml
+D:\gestaodesenvolvedor-main\bin\Debug\MySql.Data.EntityFramework.xml
+D:\gestaodesenvolvedor-main\bin\Debug\System.Buffers.xml
+D:\gestaodesenvolvedor-main\bin\Debug\System.Memory.xml
+D:\gestaodesenvolvedor-main\bin\Debug\System.Numerics.Vectors.xml
+D:\gestaodesenvolvedor-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.AssemblyReference.cache
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.SuggestedBindingRedirects.cache
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanAlocacao.resources
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanCadastrar.resources
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanLogin.resources
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.Entrada.resources
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanProjeto.resources
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanSobre.resources
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.JanTarefas.resources
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.Properties.Resources.resources
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.GenerateResource.cache
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.CoreCompileInputs.cache
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.exe.manifest
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.application
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.csproj.CopyComplete
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.exe
+D:\gestaodesenvolvedor-main\obj\Debug\AtividadeAvaliativaBD.pdb
