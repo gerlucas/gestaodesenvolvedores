@@ -41,7 +41,7 @@ namespace AtividadeAvaliativaBD
 
             catch (Exception)
             {
-                MessageBox.Show("Um erro ocorreu. Tente novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Campos vazios. Tente novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             
         }

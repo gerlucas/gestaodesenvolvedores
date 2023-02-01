@@ -90,7 +90,7 @@
             // 
             this.lblNivel.AutoSize = true;
             this.lblNivel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNivel.Location = new System.Drawing.Point(49, 178);
+            this.lblNivel.Location = new System.Drawing.Point(49, 177);
             this.lblNivel.Name = "lblNivel";
             this.lblNivel.Size = new System.Drawing.Size(41, 16);
             this.lblNivel.TabIndex = 29;
@@ -234,7 +234,7 @@
             // 
             this.lblPassword.AutoSize = true;
             this.lblPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPassword.Location = new System.Drawing.Point(49, 150);
+            this.lblPassword.Location = new System.Drawing.Point(49, 147);
             this.lblPassword.Name = "lblPassword";
             this.lblPassword.Size = new System.Drawing.Size(49, 16);
             this.lblPassword.TabIndex = 5;
@@ -244,7 +244,7 @@
             // 
             this.lblEmail.AutoSize = true;
             this.lblEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEmail.Location = new System.Drawing.Point(45, 107);
+            this.lblEmail.Location = new System.Drawing.Point(45, 110);
             this.lblEmail.Name = "lblEmail";
             this.lblEmail.Size = new System.Drawing.Size(51, 16);
             this.lblEmail.TabIndex = 4;
@@ -254,18 +254,17 @@
             // 
             this.lblbirthday.AutoSize = true;
             this.lblbirthday.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblbirthday.Location = new System.Drawing.Point(14, 85);
+            this.lblbirthday.Location = new System.Drawing.Point(14, 82);
             this.lblbirthday.Name = "lblbirthday";
             this.lblbirthday.Size = new System.Drawing.Size(82, 16);
             this.lblbirthday.TabIndex = 2;
             this.lblbirthday.Text = "Nascimento:";
-            this.lblbirthday.Click += new System.EventHandler(this.lblbirthday_Click);
             // 
             // lblName
             // 
             this.lblName.AutoSize = true;
             this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.Location = new System.Drawing.Point(49, 48);
+            this.lblName.Location = new System.Drawing.Point(49, 51);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(47, 16);
             this.lblName.TabIndex = 1;

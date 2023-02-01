@@ -128,6 +128,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entidades\Alocacao.cs" />
+    <Compile Include="Interface Gráfica\JanPesquisaDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface Gráfica\JanPesquisaDev.Designer.cs">
+      <DependentUpon>JanPesquisaDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface Gráfica\JanPesquisaProjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface Gráfica\JanPesquisaProjeto.Designer.cs">
+      <DependentUpon>JanPesquisaProjeto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Repositorios\AlocacaoRepository.cs" />
     <Compile Include="Entidades\Credencial.cs" />
     <Compile Include="Repositorios\CredencialRepository.cs" />
@@ -194,6 +206,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Interface Gráfica\JanLogin.resx">
       <DependentUpon>JanLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface Gráfica\JanPesquisaDev.resx">
+      <DependentUpon>JanPesquisaDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface Gráfica\JanPesquisaProjeto.resx">
+      <DependentUpon>JanPesquisaProjeto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Interface Gráfica\JanPrincipal.resx">
       <DependentUpon>JanPrincipal.cs</DependentUpon>

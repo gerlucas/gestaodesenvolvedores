@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AtividadeAvaliativaBD.Interface_Gráfica;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,17 +14,23 @@ namespace AtividadeAvaliativaBD
     public partial class Entrada : Form
     {
         private static Entrada _instance;
-        public Entrada()
+        private Entrada(Desenvolvedor dev)
         {
             InitializeComponent();
-
+            if(dev.Credencial.Administrador == true)
+            {
+                desenvolvedorToolStripMenuItem1.Visible = true;
+                projetosToolStripMenuItem.Visible = true;
+                alocaçãoToolStripMenuItem.Visible = true;
+                tarefasToolStripMenuItem.Visible = true;
+            }
         }
 
-        public static Entrada GetInstance()
+        public static Entrada GetInstance(Desenvolvedor dev)
         {
             if (_instance == null || _instance.IsDisposed)
             {
-                _instance = new Entrada();
+                _instance = new Entrada(dev);
             }
 
             return _instance;
@@ -31,7 +38,8 @@ namespace AtividadeAvaliativaBD
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            JanLogin janlogin = JanLogin.GetInstance();
+            janlogin.Show();
         }
         private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -71,6 +79,20 @@ namespace AtividadeAvaliativaBD
             jantarefas.MdiParent = this;
             jantarefas.WindowState = FormWindowState.Normal;
             jantarefas.Show();
+        }
+
+        private void Entrada_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            JanLogin janlogin = JanLogin.GetInstance();
+            janlogin.Show();
+        }
+
+        private void desenvolvedorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            JanPesquisaDev janpesquisadev = JanPesquisaDev.GetInstance();
+            janpesquisadev.MdiParent = this;
+            janpesquisadev.WindowState = FormWindowState.Normal;
+            janpesquisadev.Show();
         }
     }
 }

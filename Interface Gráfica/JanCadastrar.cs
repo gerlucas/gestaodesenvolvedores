@@ -45,64 +45,74 @@ namespace AtividadeAvaliativaBD
             txtSenha.Clear();
         }
 
+
         private void btnCadastro_Click(object sender, EventArgs e)
         {
             try
             {
 
-
-                Desenvolvedor devprincipal = new Desenvolvedor();
-
-                devprincipal.Nome = txtNome.Text;
-                devprincipal.Nascimento = dtpNascimento.Value;
-
-                if (cbxNivel.SelectedIndex == 0)
+                if (rdbAtivoSim.Checked && rdbAtivoNao.Checked && rdbAdmSim.Checked && rdbAdmNao.Checked)
                 {
-                    devprincipal.Nivel = 'J';
+                    Desenvolvedor devprincipal = new Desenvolvedor();
+
+                    devprincipal.Nome = txtNome.Text;
+                    devprincipal.Nascimento = dtpNascimento.Value;
+
+                    if (cbxNivel.SelectedIndex == 0)
+                    {
+                        devprincipal.Nivel = 'J';
+                    }
+                    if (cbxNivel.SelectedIndex == 1)
+                    {
+                        devprincipal.Nivel = 'P';
+                    }
+                    if (cbxNivel.SelectedIndex == 2)
+                    {
+                        devprincipal.Nivel = 'S';
+                    }
+
+                    Credencial credprincipal = new Credencial();
+
+                    credprincipal.Email = txtEmail.Text;
+                    credprincipal.Senha = txtSenha.Text;
+
+                    if (rdbAtivoSim.Checked)
+                    {
+                        credprincipal.Ativo = true;
+                    }
+                    else if (rdbAtivoNao.Checked)
+                    {
+                        credprincipal.Ativo = false;
+                    }
+
+                    if (rdbAdmSim.Checked)
+                    {
+                        credprincipal.Administrador = true;
+                    }
+                    else if (rdbAdmNao.Checked)
+                    {
+                        credprincipal.Administrador = false;
+                    }
+
+
+                    credprincipal.Desenvolvedor = devprincipal;
+                    devprincipal.Credencial = credprincipal;
+
+                    DesenvolvedorRepository.Salvar(devprincipal);
+
+                    MessageBox.Show("Desenvolvedor cadastrado com sucesso.", "SUCESSO", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    txtNome.Clear();
+                    txtEmail.Clear();
+                    txtSenha.Clear();
                 }
-                if (cbxNivel.SelectedIndex == 1)
+                else
                 {
-                    devprincipal.Nivel = 'P';
+                    MessageBox.Show("Opção não selecionada. Tente novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-                if (cbxNivel.SelectedIndex == 2)
-                {
-                    devprincipal.Nivel = 'S';
-                }
-
-                Credencial credprincipal = new Credencial();
-
-                credprincipal.Email = txtEmail.Text;
-                credprincipal.Senha = txtSenha.Text;
-
-                if (rdbAtivoSim.Checked)
-                {
-                    credprincipal.Ativo = true;
-                }
-                else if (rdbAtivoNao.Checked)
-                {
-                    credprincipal.Ativo = false;
-                }
-
-                if (rdbAdmSim.Checked)
-                {
-                    credprincipal.Administrador = true;
-                }
-                else if (rdbAdmNao.Checked)
-                {
-                    credprincipal.Administrador = false;
-                }
-
-
-                credprincipal.Desenvolvedor = devprincipal;
-                devprincipal.Credencial = credprincipal;
-
-                DesenvolvedorRepository.Salvar(devprincipal);
-
-                MessageBox.Show("Desenvolvedor cadastrado com sucesso.", "SUCESSO", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch (Exception)
             {
-                MessageBox.Show("Um erro ocorreu. Tente novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Campos vazios. Tente novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }

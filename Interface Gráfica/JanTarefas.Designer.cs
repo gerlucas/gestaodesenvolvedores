@@ -53,7 +53,7 @@
             this.pnlMain.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pnlMain.Location = new System.Drawing.Point(0, 0);
             this.pnlMain.Name = "pnlMain";
-            this.pnlMain.Size = new System.Drawing.Size(686, 280);
+            this.pnlMain.Size = new System.Drawing.Size(693, 280);
             this.pnlMain.TabIndex = 24;
             // 
             // txtTarefa

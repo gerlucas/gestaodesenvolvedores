@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AtividadeAvaliativaBD.exe" size="76272">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AtividadeAvaliativaBD.exe" size="87536">
       <assemblyIdentity name="AtividadeAvaliativaBD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GD3spfe00R9AcbFQOBLmvLfh3PJdnI5k4CE3jkvxA4g=</dsig:DigestValue>
+        <dsig:DigestValue>NnuUaji9by8PDz6k0FQS0+NoQ4OhbnYf9B3h0T/BGnU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -221,13 +221,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="AtividadeAvaliativaBD.exe.config" size="1648">
+  <file name="AtividadeAvaliativaBD.exe.config" size="1675">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SVRmOyIHCw56JWc62Hp0dl0dfhZVMtttr0ahvuywdcQ=</dsig:DigestValue>
+      <dsig:DigestValue>K423QrdwwKJhcc4hPa2imJom50Tt656DfP/lAJPcx0E=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

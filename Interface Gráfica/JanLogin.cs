@@ -33,17 +33,17 @@ namespace AtividadeAvaliativaBD
             try
             {
 
-                Desenvolvedor developer = CredencialRepository.AutenticarDev(txtEmail.Text, txtSenha.Text);
+                Desenvolvedor dev = CredencialRepository.AutenticarDev(txtEmail.Text, txtSenha.Text);
 
-                if (developer == null)
+                if (dev == null)
                 {
                     MessageBox.Show("Insira novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-                else if (developer.Credencial.Ativo == true)
+                else if (dev.Credencial.Ativo == true)
                 {
                     this.Hide();
 
-                    Entrada.GetInstance().Show();
+                    Entrada.GetInstance(dev).Show();
 
                     txtEmail.Text = null;
                     txtSenha.Text = null;
@@ -70,11 +70,6 @@ namespace AtividadeAvaliativaBD
         private void JanLogin_Load(object sender, EventArgs e)
         {
             Repository dbContext = new Repository();
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
         }
 
         private void label1_Click(object sender, EventArgs e)

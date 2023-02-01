@@ -62,6 +62,7 @@
             this.txtSenha.PasswordChar = '*';
             this.txtSenha.Size = new System.Drawing.Size(186, 24);
             this.txtSenha.TabIndex = 2;
+            this.txtSenha.Text = "123456";
             this.txtSenha.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtSenha.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtSenha_KeyUp);
             // 
@@ -73,6 +74,7 @@
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(186, 24);
             this.txtEmail.TabIndex = 1;
+            this.txtEmail.Text = "glucas@gmail.com";
             this.txtEmail.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtEmail.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtEmail_KeyUp);
             // 
@@ -107,7 +109,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(320, 1);
             this.panel1.TabIndex = 9;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // label1
             // 
@@ -148,6 +149,7 @@
             // 
             // btnExibir
             // 
+            this.btnExibir.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnExibir.Image = global::AtividadeAvaliativaBD.Properties.Resources.olho;
             this.btnExibir.Location = new System.Drawing.Point(324, 151);
             this.btnExibir.Name = "btnExibir";
