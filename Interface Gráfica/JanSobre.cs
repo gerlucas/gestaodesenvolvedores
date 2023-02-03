@@ -13,7 +13,7 @@ namespace AtividadeAvaliativaBD
     public partial class JanSobre : Form
     {
         private static JanSobre _instance;
-        public JanSobre()
+        private JanSobre()
         {
             InitializeComponent();
         }

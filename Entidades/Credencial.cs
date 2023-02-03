@@ -33,7 +33,14 @@ namespace AtividadeAvaliativaBD
             }
             set
             {
-                _senha = ComputeSHA256(value, SALT);
+                if (value.Length >= 8 && value.Length <= 12)
+                {
+                    _senha = ComputeSHA256(value, SALT);
+                }
+                else if (value.Length == 64)
+                {
+                    _senha = value;
+                }
             }
         }
 

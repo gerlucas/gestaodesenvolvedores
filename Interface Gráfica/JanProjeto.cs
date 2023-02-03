@@ -13,7 +13,7 @@ namespace AtividadeAvaliativaBD
     public partial class JanProjeto : Form
     {
         private static JanProjeto _instance;
-        public JanProjeto()
+        private JanProjeto()
         {
             InitializeComponent();
         }

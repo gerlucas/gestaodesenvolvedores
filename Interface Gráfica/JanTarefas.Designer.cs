@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.pnlMain = new System.Windows.Forms.Panel();
+            this.pcbInformacao = new System.Windows.Forms.PictureBox();
             this.txtTarefa = new System.Windows.Forms.TextBox();
             this.btnAdd = new System.Windows.Forms.Button();
             this.lstTarefas = new System.Windows.Forms.ListBox();
@@ -38,10 +39,12 @@
             this.lblAlocacao = new System.Windows.Forms.Label();
             this.lblCadastro = new System.Windows.Forms.Label();
             this.pnlMain.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbInformacao)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlMain
             // 
+            this.pnlMain.Controls.Add(this.pcbInformacao);
             this.pnlMain.Controls.Add(this.txtTarefa);
             this.pnlMain.Controls.Add(this.btnAdd);
             this.pnlMain.Controls.Add(this.lstTarefas);
@@ -55,6 +58,16 @@
             this.pnlMain.Name = "pnlMain";
             this.pnlMain.Size = new System.Drawing.Size(693, 280);
             this.pnlMain.TabIndex = 24;
+            // 
+            // pcbInformacao
+            // 
+            this.pcbInformacao.Image = global::AtividadeAvaliativaBD.Properties.Resources.sinal_de_informacao;
+            this.pcbInformacao.Location = new System.Drawing.Point(604, 151);
+            this.pcbInformacao.Name = "pcbInformacao";
+            this.pcbInformacao.Size = new System.Drawing.Size(40, 30);
+            this.pcbInformacao.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pcbInformacao.TabIndex = 47;
+            this.pcbInformacao.TabStop = false;
             // 
             // txtTarefa
             // 
@@ -88,13 +101,14 @@
             this.lstTarefas.Size = new System.Drawing.Size(235, 84);
             this.lstTarefas.TabIndex = 44;
             this.lstTarefas.DoubleClick += new System.EventHandler(this.lstTarefas_DoubleClick);
+            this.lstTarefas.MouseUp += new System.Windows.Forms.MouseEventHandler(this.lstTarefas_MouseUp);
             // 
             // lblTarefas
             // 
             this.lblTarefas.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F);
-            this.lblTarefas.Location = new System.Drawing.Point(360, 67);
+            this.lblTarefas.Location = new System.Drawing.Point(365, 69);
             this.lblTarefas.Name = "lblTarefas";
-            this.lblTarefas.Size = new System.Drawing.Size(181, 41);
+            this.lblTarefas.Size = new System.Drawing.Size(171, 36);
             this.lblTarefas.TabIndex = 42;
             this.lblTarefas.Text = "Adicione a tarefa para a alocação designada.";
             // 
@@ -119,7 +133,7 @@
             // lblAlocacao
             // 
             this.lblAlocacao.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F);
-            this.lblAlocacao.Location = new System.Drawing.Point(56, 67);
+            this.lblAlocacao.Location = new System.Drawing.Point(61, 69);
             this.lblAlocacao.Name = "lblAlocacao";
             this.lblAlocacao.Size = new System.Drawing.Size(228, 36);
             this.lblAlocacao.TabIndex = 26;
@@ -143,9 +157,11 @@
             this.ClientSize = new System.Drawing.Size(692, 281);
             this.Controls.Add(this.pnlMain);
             this.Name = "JanTarefas";
-            this.Text = "JanTarefas";
+            this.Text = "Cadastro de Tarefas";
+            this.Load += new System.EventHandler(this.JanTarefas_Load);
             this.pnlMain.ResumeLayout(false);
             this.pnlMain.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbInformacao)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -161,5 +177,6 @@
         private System.Windows.Forms.Label lblTarefas;
         private System.Windows.Forms.TextBox txtTarefa;
         private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.PictureBox pcbInformacao;
     }
 }

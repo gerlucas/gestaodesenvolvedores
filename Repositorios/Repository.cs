@@ -29,8 +29,8 @@ namespace AtividadeAvaliativaBD
                 Repository dbContext = new Repository();
 
 
-                Desenvolvedor devpadrao = new Desenvolvedor("George", new DateTime(2005, 07, 08), 'S');
-                Credencial credpadrao = new Credencial("glucas@gmail.com", "123456", true, true);
+                Desenvolvedor devpadrao = new Desenvolvedor("George Lucas", new DateTime(2005, 07, 08), 'S');
+                Credencial credpadrao = new Credencial("glucas@gmail.com", "12345678", true, true);
 
                 credpadrao.Desenvolvedor = devpadrao;
                 devpadrao.Credencial = credpadrao;

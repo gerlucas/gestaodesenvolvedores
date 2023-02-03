@@ -38,7 +38,8 @@ namespace AtividadeAvaliativaBD
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            JanLogin janlogin = JanLogin.GetInstance();
+            this.Hide();
+            JanLogin janlogin = JanLogin.GetInstance();           
             janlogin.Show();
         }
         private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
@@ -93,6 +94,14 @@ namespace AtividadeAvaliativaBD
             janpesquisadev.MdiParent = this;
             janpesquisadev.WindowState = FormWindowState.Normal;
             janpesquisadev.Show();
+        }
+
+        private void projetoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            JanPesquisaProjeto janpesquisaprojeto = JanPesquisaProjeto.GetInstance();
+            janpesquisaprojeto.MdiParent = this;
+            janpesquisaprojeto.WindowState = FormWindowState.Normal;
+            janpesquisaprojeto.Show();
         }
     }
 }

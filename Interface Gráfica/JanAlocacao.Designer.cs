@@ -232,7 +232,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "JanAlocacao";
-            this.Text = "Alocação";
+            this.Text = "Cadastro de Alocações";
             this.pnlMain.ResumeLayout(false);
             this.pnlMain.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nmrHoras)).EndInit();

@@ -14,7 +14,7 @@ namespace AtividadeAvaliativaBD
     public partial class JanCadastrar : Form
     {
         private static JanCadastrar _instance;
-        public JanCadastrar()
+        private JanCadastrar()
         {
             InitializeComponent();
 
@@ -51,7 +51,7 @@ namespace AtividadeAvaliativaBD
             try
             {
 
-                if (rdbAtivoSim.Checked && rdbAtivoNao.Checked && rdbAdmSim.Checked && rdbAdmNao.Checked)
+                if (rdbAtivoSim.Checked || rdbAtivoNao.Checked && rdbAdmSim.Checked || rdbAdmNao.Checked)
                 {
                     Desenvolvedor devprincipal = new Desenvolvedor();
 
@@ -112,7 +112,15 @@ namespace AtividadeAvaliativaBD
             }
             catch (Exception)
             {
-                MessageBox.Show("Campos vazios. Tente novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                if (txtSenha.Text.Length < 8 || txtSenha.Text.Length > 12)
+                {
+                    MessageBox.Show("Senha inválida. Insira uma senha de 08 a 12 dígitos.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                }
+                else
+                {
+                    MessageBox.Show("Campos vazios. Tente novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
     }

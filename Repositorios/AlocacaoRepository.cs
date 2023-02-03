@@ -73,6 +73,7 @@ namespace AtividadeAvaliativaBD
                 throw;
             }
         }
+       
 
         public static List<Tarefa> TarefasDesignadas(Int64 id)
         {

@@ -15,7 +15,7 @@ namespace AtividadeAvaliativaBD
     public partial class JanAlocacao : Form
     {
         private static JanAlocacao _instance;
-        public JanAlocacao()
+        private JanAlocacao()
         {
             InitializeComponent();
         }

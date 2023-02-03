@@ -20,6 +20,7 @@ namespace AtividadeAvaliativaBD
                     else
                     {
                         dbContext.Entry(projeto).State = EntityState.Modified;
+
                     }
 
                     dbContext.SaveChanges();

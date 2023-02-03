@@ -10,20 +10,23 @@ namespace AtividadeAvaliativaBD
 {
     public class DesenvolvedorRepository
     {
-        public static void Salvar(Desenvolvedor usuario)
-        {
+        public static void Salvar(Desenvolvedor dev)
+        { 
             try
             {
                 using (Repository dbContext = new Repository())
                 {
-                    if (usuario.Id == 0)
+                    if (dev.Id == 0)
                     {
-                        dbContext.Devs.Add(usuario);
+                        dbContext.Devs.Add(dev);
                     }
                     else
                     {
-                        dbContext.Entry(usuario).State
-                            = EntityState.Modified;
+
+                        dbContext.Entry(dev.Credencial).State = EntityState.Modified;
+
+                        dbContext.Devs.Attach(dev);
+
                     }
 
                     dbContext.SaveChanges();
@@ -31,9 +34,9 @@ namespace AtividadeAvaliativaBD
             }
             catch (Exception)
             {
-                MessageBox.Show("E-mail já utilizado.", "E-MAIL REPETIDO", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
-            }
+                throw;
+            }  
         }
 
         public static Desenvolvedor EncontrarEmail(String email)
@@ -61,7 +64,7 @@ namespace AtividadeAvaliativaBD
             {
                 using (Repository dbContext = new Repository())
                 {
-                    return dbContext.Devs
+                    return dbContext.Devs.Include("Credencial")
                         .Where(u => u.Nome.Contains(nome))
                         .ToList<Desenvolvedor>();
                 }

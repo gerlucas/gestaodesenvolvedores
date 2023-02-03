@@ -14,12 +14,13 @@ namespace AtividadeAvaliativaBD
     public partial class JanTarefas : Form
 
     {
-        private List<Tarefa> tarefasDesignadas;
+        private List<Tarefa> _tarefasDesignadas;
 
         private static JanTarefas _instance;
-        public JanTarefas()
+        private JanTarefas()
         {
             InitializeComponent();
+
         }
         public static JanTarefas GetInstance()
         {
@@ -30,7 +31,11 @@ namespace AtividadeAvaliativaBD
 
             return _instance;
         }
-
+        private void JanTarefas_Load(object sender, EventArgs e)
+        {
+            ToolTip toolTip = new ToolTip();
+            toolTip.SetToolTip(pcbInformacao, "Pressione o botão direito para excluir uma tarefa.");
+        }
         private void txtAlocacao_TextChanged(object sender, EventArgs e)
         {
             if (txtAlocacao.Text != null)
@@ -63,18 +68,39 @@ namespace AtividadeAvaliativaBD
         private void lstAlocacao_SelectedIndexChanged(object sender, EventArgs e)
         {
             Alocacao alocacao = (Alocacao)lstAlocacao.SelectedItem;
-            tarefasDesignadas = AlocacaoRepository.TarefasDesignadas(alocacao.Id);
-            lstTarefas.DataSource = tarefasDesignadas;
+            _tarefasDesignadas = AlocacaoRepository.TarefasDesignadas(alocacao.Id);
+            lstTarefas.DataSource = _tarefasDesignadas;
         }
 
         private void lstTarefas_DoubleClick(object sender, EventArgs e)
         {
+           
+        }
+
+        private void lstTarefas_MouseUp(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Right)
+            {
+                ContextMenu contextMenu = new ContextMenu();
+                contextMenu.MenuItems.Add("Excluir", (s, ea) => ExcluirTarefa());
+
+                int index = lstTarefas.IndexFromPoint(e.Location);
+
+                if (index >= 0)
+                {
+                    lstTarefas.SelectedIndex = index;
+                    contextMenu.Show(lstTarefas, e.Location);
+                }
+            }
+        }
+        private void ExcluirTarefa()
+        {
             try
             {
                 int selectedIndex = lstTarefas.SelectedIndex;
-                if (selectedIndex >= 0 && selectedIndex < tarefasDesignadas.Count)
+                if (selectedIndex >= 0 && selectedIndex < _tarefasDesignadas.Count)
                 {
-                    Tarefa tarefa = tarefasDesignadas[selectedIndex];
+                    Tarefa tarefa = _tarefasDesignadas[selectedIndex];
 
                     using (Repository dbContext = new Repository())
                     {
@@ -83,18 +109,18 @@ namespace AtividadeAvaliativaBD
                         dbContext.SaveChanges();
                     }
 
-                    tarefasDesignadas.Remove(tarefa);
+                    _tarefasDesignadas.Remove(tarefa);
                     lstTarefas.DataSource = null;
-                    lstTarefas.DataSource = tarefasDesignadas;
+                    lstTarefas.DataSource = _tarefasDesignadas;
                     MessageBox.Show("Tarefa removida com sucesso.", "SUCESSO", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                }           
+                }
             }
             catch (Exception)
             {
                 MessageBox.Show("Não foi possivel remover a tarefa. Troque de alocação e tente novamente.", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            }
         }
     }
+}
 
 

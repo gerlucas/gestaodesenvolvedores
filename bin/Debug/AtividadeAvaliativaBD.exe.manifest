@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AtividadeAvaliativaBD.exe" size="87536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AtividadeAvaliativaBD.exe" size="114160">
       <assemblyIdentity name="AtividadeAvaliativaBD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NnuUaji9by8PDz6k0FQS0+NoQ4OhbnYf9B3h0T/BGnU=</dsig:DigestValue>
+        <dsig:DigestValue>u2lj7nNSNuKuYVjaWabvUAlRweyoJIAVbL2PVExlWtg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

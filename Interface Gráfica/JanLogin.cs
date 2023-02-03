@@ -13,7 +13,7 @@ namespace AtividadeAvaliativaBD
     public partial class JanLogin : Form
     {
         private static JanLogin _instance;
-        public JanLogin()
+        private JanLogin()
         {
             InitializeComponent();
         }
@@ -69,7 +69,7 @@ namespace AtividadeAvaliativaBD
 
         private void JanLogin_Load(object sender, EventArgs e)
         {
-            Repository dbContext = new Repository();
+            // Repository dbContext = new Repository();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -97,6 +97,7 @@ namespace AtividadeAvaliativaBD
                 txtSenha.PasswordChar = '\0';
             }
         }
+
     }
 }
 

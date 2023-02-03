@@ -16,8 +16,7 @@ namespace AtividadeAvaliativaBD
             if (dev != null)
             {
                 String senhanobd = dev.Credencial.Senha;
-                senha = Credencial.ComputeSHA256(senha, Credencial.SALT);
-
+                
                 if (senhanobd == Credencial.ComputeSHA256(senha, Credencial.SALT))
                 {
                     return dev;
